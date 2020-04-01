@@ -1,3 +1,3 @@
-# Amaya Designs Pvt. Ltd.
+# BS Today
 
-Placeholder website for Amaya Designs
+Placeholder website for BS Today
